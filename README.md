@@ -1,1 +1,3 @@
-"# Sanjida_Akther_ID_0182220012101147_labwork_23_10_25" 
+python lab work 
+Name : Sanjida Akther 
+Id   : 0182220012101147
